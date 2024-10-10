@@ -1,0 +1,2 @@
+1: Use the beautiful soup to capture data, store it in a dictionary
+2: use selenium to fill the google form
